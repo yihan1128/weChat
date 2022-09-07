@@ -1,0 +1,35 @@
+"app_id": "wx7935ec5adc1e8536",
+"app_secret": "119dbbac6fb1111b021282b95b37b103",
+
+"template_id": "gDPARrh02jQkQnbi3kADCdnZkVocBXxKMi4u71D41uE",
+"user_id": [""],
+#"user_id": ["ozhWw6jISHoAbCYJ0LOCMlFGvjQc" , "ozhWw6vsn_uJvWfen_CEiLu78Yco"],
+
+"C_ShengFen": "陕西",
+"C_ChengShi": "西安",
+"S_XingZuo": "射手座",
+
+"S_Love": "2020-03-21",
+"birthday1": "2002-11-28",
+"birthday2": "2004-10-28",
+
+"C_String01": "今天也是非常爱你的一天 ",
+"C_String02": "每天都要开心",
+"C_String03": "可以替换为自己想要的文字 03",
+
+
+# 天气预报
+"API_TQYB":"5053092989ab550399d2827a7616b117",
+# 星座运势
+"API_XZYS":"5053092989ab550399d2827a7616b117",
+
+# 早安心语
+"API_ZAXY":"5053092989ab550399d2827a7616b117",
+# 晚安心语
+"API_WAXY":"请替换为自己申请的 API接口",
+
+# 舔狗日记
+"API_TGRJ":"请替换为自己申请的 API接口",
+# 土味情话
+"API_TWQH":"请替换为自己申请的 API接口"
+}
